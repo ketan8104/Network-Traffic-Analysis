@@ -3,3 +3,4 @@ Added geckodriver and chromedriver to PATH and C:
 Learnt a lot abou logging module but didn't had to use it
 asdf
 newline ms frm site
+newsestr commit
